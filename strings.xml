@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كيان برو</string>
+    <string name="welcome_message">مرحباً بك في كيان برو</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">تسجيل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="name">الاسم</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="add_to_cart">أضف للسلة</string>
+    <string name="products">المنتجات</string>
+</resources>
